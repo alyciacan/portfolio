@@ -1,0 +1,8 @@
+.social-img {
+    max-height: 4rem;
+    color: #ffe66d;
+}
+
+.social-img:hover {
+    color: white;
+}
