@@ -1,8 +1,27 @@
 .social-img {
     max-height: 4rem;
-    color: #ffe66d;
+    color: #f7fff7;
+    transition: all .5s;
+    margin: 12px 0px 12px 0px;
+
 }
 
 .social-img:hover {
-    color: white;
+    color: #4ecdc4;
+    transform: translate(0px, -10px);
 }
+
+.social-list {
+    width: 63px;
+    padding: 0px;
+}
+
+li>a {
+    width: 100%;
+    display: block;
+}
+
+
+
+
+
